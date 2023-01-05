@@ -1,4 +1,4 @@
-### Hi, I'm Joey
+### Hi, I'm Joey 👋
 
 I'm a developer based in Northern California, husband, dog dad, fantasy football try-hard, and beer snob among other things.
 
