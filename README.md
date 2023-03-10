@@ -8,7 +8,7 @@ I write fairly regularly on my personal blog [joeymckenzie.tech](https://joeymck
 
 ### Work 💸
 
-I'm a Senior Software Engineer at National Funding, a fintech company based in San Diego. I'm a TypeScript & .NET dev/amateur DevOps hopeful by day, and a rustacean off the clock. 🦀
+I'm a Senior Software Engineer at National Funding, a fintech company based in San Diego. I'm a TypeScript & .NET dev/amateur DevOps hopeful by day, and parttime rustacean off the clock. 🦀
 
 ### Contact 🤝
 
